@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Upc_carga_facil</string>
+    <string name="Item_Inicio">Inicio</string>
+    <string name="Item_Chats">Chats</string>
+    <string name="Item_Vender">Vender</string>
+    <string name="Item_Servicios">Mis servicios</string>
+    <string name="Item_Cuenta">Cuenta</string>
+
+    <string name="TituloRL">Titulo</string>
 </resources>

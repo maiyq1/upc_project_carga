@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436498524104",
+    "project_id": "upc-carga-izi",
+    "storage_bucket": "upc-carga-izi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436498524104:android:fc96c6498a49183be142fd",
+        "android_client_info": {
+          "package_name": "com.example.upc_carga_facil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9j1e2kKRmB0WjldVIk_X0B_vXvrbydNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

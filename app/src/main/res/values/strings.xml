@@ -15,6 +15,10 @@
     <string name="Txt_no_cuenta">¿No tienes una cuenta?</string>
     <string name="Txt_registrarme">REGISTRARME</string>
 
+    <string name="Txt_registro">Registro de usuario</string>
+    <string name="Et_r_password">Repetir contrasenia</string>
+    <string name="Btn_registrar">Registrar</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
